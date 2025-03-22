@@ -77,7 +77,7 @@ npm run benchmark:one src/{id_of_challenge}/solution.bench.ts
     - [Task](https://www.codewars.com/kata/525f50e3b73515a6db000b83/train/typescript)
     - [Solution](https://github.com/idbeholdv18/codewars/tree/master/typescript/src/525f50e3b73515a6db000b83)
 
-### 1. Simple Pig Latin - 5 kyu
+### 2. Simple Pig Latin - 5 kyu
 
 - Typescript
     - [Task](https://www.codewars.com/kata/520b9d2ad5c005041100000f/train/typescript)
