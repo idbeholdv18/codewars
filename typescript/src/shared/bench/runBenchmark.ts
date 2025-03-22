@@ -31,7 +31,7 @@ export function runBenchmark(solutions: any, input: any, reportDir: string) {
       results.sort((a, b) => parseFloat(b.hz) - parseFloat(a.hz));
 
       const markdownReport = generateMarkdownReport(results);
-      const reportPath = path.join(reportDir, 'benchmark_report.md');
+      const reportPath = path.join(reportDir, 'README.md');
       saveReportToFile(markdownReport, reportPath);
 
       console.table(results);
