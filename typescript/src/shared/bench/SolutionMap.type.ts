@@ -1,0 +1,1 @@
+export type SolutionMap = { [key: string]: (...args: any[]) => any };
