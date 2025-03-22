@@ -4,10 +4,15 @@
   "description": "",
   "main": "dist/index.js",
   "scripts": {
-    "build": "tsc"
+    "test": "mocha --require ts-node/register",
+    "benchmark:one": "npx ts-node"
   },
-  "dependencies": {},
   "devDependencies": {
+    "@types/benchmark": "^2.1.5",
+    "@types/mocha": "^10.0.10",
+    "benchmark": "^2.1.4",
+    "mocha": "^11.1.0",
+    "ts-node": "^10.9.2",
     "typescript": "^5.5.3"
   },
   "private": true
