@@ -1,5 +1,7 @@
 # Solutions to Codewars Challenges
 
+![Codewars Badge](https://www.codewars.com/users/idbeholdv18/badges/large)
+
 This repository contains my solutions to various challenges from Codewars. The challenges are organized by language.
 Each solution is accompanied by tests, benchmarks, and instructions to ensure correctness and performance.
 
