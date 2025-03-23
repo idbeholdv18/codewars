@@ -84,3 +84,9 @@ npm run benchmark:one src/{id_of_challenge}/solution.bench.ts
 - Typescript
     - [Task](https://www.codewars.com/kata/520b9d2ad5c005041100000f/train/typescript)
     - [Solution](https://github.com/idbeholdv18/codewars/tree/master/typescript/src/520b9d2ad5c005041100000f)
+
+### 3. Sum of Intervals - 4 kyu
+
+- Typescript
+    - [Task](https://www.codewars.com/kata/52b7ed099cdc285c300001cd/train/typescript)
+    - [Solution](https://github.com/idbeholdv18/codewars/tree/master/typescript/src/52b7ed099cdc285c300001cd)
