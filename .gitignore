@@ -11,3 +11,7 @@ yarn-error.log*
 
 .vscode/*
 .idea
+
+
+/rust/target/
+/rust/Cargo.lock
