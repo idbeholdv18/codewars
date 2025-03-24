@@ -90,3 +90,9 @@ npm run benchmark:one src/{id_of_challenge}/solution.bench.ts
 - Typescript
     - [Task](https://www.codewars.com/kata/52b7ed099cdc285c300001cd/train/typescript)
     - [Solution](https://github.com/idbeholdv18/codewars/tree/master/typescript/src/52b7ed099cdc285c300001cd)
+
+### 4. Multiples of 3 or 5 - 6 kyu
+
+- Rust
+  - [Task](https://www.codewars.com/kata/514b92a657cdc65150000006/train/rust)
+  - [Solution](https://github.com/idbeholdv18/codewars/tree/master/rust/src/tasks/multiples_of_3_or_5.rs)
