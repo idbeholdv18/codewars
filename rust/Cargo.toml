@@ -12,3 +12,7 @@ criterion = "0.5.1"
 name = "multiples_of_3_or_5_bench"
 harness = false
 
+[[bench]]
+name = "vowel_count_bench"
+harness = false
+

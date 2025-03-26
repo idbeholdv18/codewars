@@ -94,5 +94,11 @@ npm run benchmark:one src/{id_of_challenge}/solution.bench.ts
 ### 4. Multiples of 3 or 5 - 6 kyu
 
 - Rust
-  - [Task](https://www.codewars.com/kata/514b92a657cdc65150000006/train/rust)
-  - [Solution](https://github.com/idbeholdv18/codewars/tree/master/rust/src/tasks/multiples_of_3_or_5.rs)
+    - [Task](https://www.codewars.com/kata/514b92a657cdc65150000006/train/rust)
+    - [Solution](https://github.com/idbeholdv18/codewars/tree/master/rust/src/tasks/multiples_of_3_or_5.rs)
+
+### 4. Vowel Count - 7 kyu
+
+- Rust
+    - [Task](https://www.codewars.com/kata/54ff3102c1bad923760001f3/train/rust)
+    - [Solution](https://github.com/idbeholdv18/codewars/tree/master/rust/src/tasks/vowel_count.rs)
