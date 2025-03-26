@@ -97,8 +97,14 @@ npm run benchmark:one src/{id_of_challenge}/solution.bench.ts
     - [Task](https://www.codewars.com/kata/514b92a657cdc65150000006/train/rust)
     - [Solution](https://github.com/idbeholdv18/codewars/tree/master/rust/src/tasks/multiples_of_3_or_5.rs)
 
-### 4. Vowel Count - 7 kyu
+### 5. Vowel Count - 7 kyu
 
 - Rust
     - [Task](https://www.codewars.com/kata/54ff3102c1bad923760001f3/train/rust)
     - [Solution](https://github.com/idbeholdv18/codewars/tree/master/rust/src/tasks/vowel_count.rs)
+
+### 6. Array.diff - 6 kyu
+
+- Typescript
+  - [Task](https://www.codewars.com/kata/523f5d21c841566fde000009/train/rust)
+  - [Solution](https://github.com/idbeholdv18/codewars/tree/master/typescript/src/523f5d21c841566fde000009)

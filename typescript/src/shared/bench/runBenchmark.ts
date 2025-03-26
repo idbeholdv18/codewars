@@ -5,7 +5,7 @@ import { addBenchmarksToSuite } from "./addBenchmarksToSuite";
 import { generateMarkdownReport } from "./generateMarkdownReport";
 import { saveReportToFile } from "./saveReportToFile";
 
-export function runBenchmark(solutions: any, input: any, reportDir: string) {
+export function runBenchmark(solutions: any, input: any | any[], reportDir: string) {
   const suite = new Benchmark.Suite();
   const solutionsTyped = solutions as unknown as SolutionMap;
 
