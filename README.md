@@ -108,3 +108,9 @@ npm run benchmark:one src/{id_of_challenge}/solution.bench.ts
 - Typescript
   - [Task](https://www.codewars.com/kata/523f5d21c841566fde000009/train/rust)
   - [Solution](https://github.com/idbeholdv18/codewars/tree/master/typescript/src/523f5d21c841566fde000009)
+
+### 7. Password validator - 7 kyu
+
+- C++
+  - [Task](https://www.codewars.com/kata/56a921fa8c5167d8e7000053/train/cpp)
+  - [Solution](https://github.com/idbeholdv18/codewars/tree/master/cpp/src/password_validator/password_validator.cpp)
