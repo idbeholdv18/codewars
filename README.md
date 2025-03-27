@@ -24,10 +24,10 @@ root/
 ```
 
 - {language}/src/{id_of_challenge}/ — Folder for each challenge, identified by its unique ID.
-    - solution.{language_extension} — The solution file for the challenge.
-    - solution.test.{language_extension} — Test cases for the solution.
-    - solution.bench.{language_extension} — Benchmark for the solution.
-    - README.md — Instructions on how to run benchmarks, tests, and the results from specific dates.
+  - solution.{language_extension} — The solution file for the challenge.
+  - solution.test.{language_extension} — Test cases for the solution.
+  - solution.bench.{language_extension} — Benchmark for the solution.
+  - README.md — Instructions on how to run benchmarks, tests, and the results from specific dates.
 - {language}/src/shared/ — Shared functions used for benchmarking, testing, and other utilities.
 - {language}/config/ — Configuration files (e.g., TypeScript or other language-specific configurations).
 
@@ -76,32 +76,32 @@ npm run benchmark:one src/{id_of_challenge}/solution.bench.ts
 ### 1. Create Phone Number - 6 kyu
 
 - Typescript
-    - [Task](https://www.codewars.com/kata/525f50e3b73515a6db000b83/train/typescript)
-    - [Solution](https://github.com/idbeholdv18/codewars/tree/master/typescript/src/525f50e3b73515a6db000b83)
+  - [Task](https://www.codewars.com/kata/525f50e3b73515a6db000b83/train/typescript)
+  - [Solution](https://github.com/idbeholdv18/codewars/tree/master/typescript/src/525f50e3b73515a6db000b83)
 
 ### 2. Simple Pig Latin - 5 kyu
 
 - Typescript
-    - [Task](https://www.codewars.com/kata/520b9d2ad5c005041100000f/train/typescript)
-    - [Solution](https://github.com/idbeholdv18/codewars/tree/master/typescript/src/520b9d2ad5c005041100000f)
+  - [Task](https://www.codewars.com/kata/520b9d2ad5c005041100000f/train/typescript)
+  - [Solution](https://github.com/idbeholdv18/codewars/tree/master/typescript/src/520b9d2ad5c005041100000f)
 
 ### 3. Sum of Intervals - 4 kyu
 
 - Typescript
-    - [Task](https://www.codewars.com/kata/52b7ed099cdc285c300001cd/train/typescript)
-    - [Solution](https://github.com/idbeholdv18/codewars/tree/master/typescript/src/52b7ed099cdc285c300001cd)
+  - [Task](https://www.codewars.com/kata/52b7ed099cdc285c300001cd/train/typescript)
+  - [Solution](https://github.com/idbeholdv18/codewars/tree/master/typescript/src/52b7ed099cdc285c300001cd)
 
 ### 4. Multiples of 3 or 5 - 6 kyu
 
 - Rust
-    - [Task](https://www.codewars.com/kata/514b92a657cdc65150000006/train/rust)
-    - [Solution](https://github.com/idbeholdv18/codewars/tree/master/rust/src/tasks/multiples_of_3_or_5.rs)
+  - [Task](https://www.codewars.com/kata/514b92a657cdc65150000006/train/rust)
+  - [Solution](https://github.com/idbeholdv18/codewars/tree/master/rust/src/tasks/multiples_of_3_or_5.rs)
 
 ### 5. Vowel Count - 7 kyu
 
 - Rust
-    - [Task](https://www.codewars.com/kata/54ff3102c1bad923760001f3/train/rust)
-    - [Solution](https://github.com/idbeholdv18/codewars/tree/master/rust/src/tasks/vowel_count.rs)
+  - [Task](https://www.codewars.com/kata/54ff3102c1bad923760001f3/train/rust)
+  - [Solution](https://github.com/idbeholdv18/codewars/tree/master/rust/src/tasks/vowel_count.rs)
 
 ### 6. Array.diff - 6 kyu
 
@@ -114,3 +114,9 @@ npm run benchmark:one src/{id_of_challenge}/solution.bench.ts
 - C++
   - [Task](https://www.codewars.com/kata/56a921fa8c5167d8e7000053/train/cpp)
   - [Solution](https://github.com/idbeholdv18/codewars/tree/master/cpp/src/password_validator/password_validator.cpp)
+
+### 8. Stop gninnipS My sdroW! - 6 kyu
+
+- C++
+  - [Task](https://www.codewars.com/kata/5264d2b162488dc400000001/train/cpp)
+  - [Solution](https://github.com/idbeholdv18/codewars/tree/master/cpp/src/spin_words/spin_words.cpp)
