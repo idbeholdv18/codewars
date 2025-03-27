@@ -15,3 +15,6 @@ yarn-error.log*
 
 /rust/target/
 /rust/Cargo.lock
+
+
+/cpp/bin/
