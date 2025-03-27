@@ -4,6 +4,8 @@
 
 #include <string>
 #include <regex>
+#include "password_validator/password_validator.h"
+#include "test_function.h"
 
 bool password(const std::string &pwd)
 {
@@ -16,9 +18,6 @@ bool password(const std::string &pwd)
     std::regex const e{R"(^(?=.*[A-Z])(?=.*[a-z])(?=.*\d).{8,}$)"};
     return std::regex_match(pwd, e);
 }
-
-#include "password_validator/password_validator.h"
-#include "test_function.h"
 
 int main()
 {
