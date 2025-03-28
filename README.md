@@ -97,6 +97,10 @@ npm run benchmark:one src/{id_of_challenge}/solution.bench.ts
   - [Task](https://www.codewars.com/kata/514b92a657cdc65150000006/train/rust)
   - [Solution](https://github.com/idbeholdv18/codewars/tree/master/rust/src/tasks/multiples_of_3_or_5.rs)
 
+- C++
+  - [Task](https://www.codewars.com/kata/514b92a657cdc65150000006/train/cpp)
+  - [Solution](https://github.com/idbeholdv18/codewars/tree/master/cpp/src/multiples_of_3_or_5/multiples_of_3_or_5.cpp)
+
 ### 5. Vowel Count - 7 kyu
 
 - Rust

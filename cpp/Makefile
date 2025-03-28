@@ -1,7 +1,6 @@
 CC = g++
 CFLAGS = -I src -Wall -Wextra -std=c++17
 
-# Директория с исходниками зависит от TASK
 SRC_DIR = src/$(TASK)
 SRC = $(SRC_DIR)/$(TASK).cpp
 
