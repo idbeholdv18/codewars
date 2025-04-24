@@ -134,3 +134,8 @@ npm run benchmark:one src/{id_of_challenge}/solution.bench.ts
 - C++
   - [Task](https://www.codewars.com/kata/56747fd5cb988479af000028/train/cpp)
   - [Solution](https://github.com/idbeholdv18/codewars/tree/master/cpp/src/get_the_middle_character/get_the_middle_character.cpp)
+
+### 11. Highest Scoring Word - 6 kyu
+- C++
+  - [Task](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272/train/cpp)
+  - [Solution](https://github.com/idbeholdv18/codewars/tree/master/cpp/src/highest_scoring_word/highest_scoring_word.cpp)
