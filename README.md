@@ -124,3 +124,13 @@ npm run benchmark:one src/{id_of_challenge}/solution.bench.ts
 - C++
   - [Task](https://www.codewars.com/kata/5264d2b162488dc400000001/train/cpp)
   - [Solution](https://github.com/idbeholdv18/codewars/tree/master/cpp/src/spin_words/spin_words.cpp)
+
+### 9. Bit Counting - 6 kyu
+- C++
+  - [Task](https://www.codewars.com/kata/526571aae218b8ee490006f4/train/cpp)
+  - [Solution](https://github.com/idbeholdv18/codewars/tree/master/cpp/src/bit_counting/bit_counting.cpp)
+
+### 10. Get the Middle Character - 7 kyu
+- C++
+  - [Task](https://www.codewars.com/kata/56747fd5cb988479af000028/train/cpp)
+  - [Solution](https://github.com/idbeholdv18/codewars/tree/master/cpp/src/get_the_middle_character/get_the_middle_character.cpp)
