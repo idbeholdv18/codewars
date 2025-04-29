@@ -139,3 +139,14 @@ npm run benchmark:one src/{id_of_challenge}/solution.bench.ts
 - C++
   - [Task](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272/train/cpp)
   - [Solution](https://github.com/idbeholdv18/codewars/tree/master/cpp/src/highest_scoring_word/highest_scoring_word.cpp)
+
+### 12. Maximum Subarray Sum - 5 kyu
+- C++
+  - [Task](https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c/train/cpp)
+  - [Solution](https://github.com/idbeholdv18/codewars/tree/master/cpp/src/maximum_subarray_sum/maximum_subarray_sum.cpp)
+
+### 13. Snail - 4 kyu
+- C++
+  - [Task](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1/train/cpp)
+  - [Solution](https://github.com/idbeholdv18/codewars/tree/master/cpp/src/snail/snail.cpp)
+
