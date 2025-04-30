@@ -155,7 +155,7 @@ npm run benchmark:one src/{id_of_challenge}/solution.bench.ts
   - [Task](https://www.codewars.com/kata/51e04f6b544cf3f6550000c1/train/cpp)
   - [Solution](https://github.com/idbeholdv18/codewars/tree/master/cpp/src/beeramid/beeramid.cpp)
 
-### 15. Path Finder #3: the Alpinist - 3 kyu
+### 16. Path Finder #3: the Alpinist - 3 kyu
 - C++
   - [Task](https://www.codewars.com/kata/576986639772456f6f00030c/train/cpp)
   - [Solution](https://github.com/idbeholdv18/codewars/tree/master/cpp/src/path_finder_no_3_the_alpinist/path_finder_no_3_the_alpinist.cpp)
