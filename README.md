@@ -150,3 +150,7 @@ npm run benchmark:one src/{id_of_challenge}/solution.bench.ts
   - [Task](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1/train/cpp)
   - [Solution](https://github.com/idbeholdv18/codewars/tree/master/cpp/src/snail/snail.cpp)
 
+### 15. Beearmid - 5 kyu
+- C++
+  - [Task](https://www.codewars.com/kata/51e04f6b544cf3f6550000c1/train/cpp)
+  - [Solution](https://github.com/idbeholdv18/codewars/tree/master/cpp/src/beeramid/beeramid.cpp)
